@@ -15,6 +15,9 @@ button {
   justify-content: space-between;
   align-items: center;
 }
+.panel-container {
+  margin-bottom: 20px;
+}
 .panel-question {
   background-color: rgba(128, 128, 128, 0.7);
   padding: 5px 10px;
