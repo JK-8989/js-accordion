@@ -1,0 +1,17 @@
+body {
+  padding: 0 10%;
+}
+h1, button {
+  display: inline-block;
+}
+button {
+  height: 50px;
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
